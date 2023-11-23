@@ -19,6 +19,7 @@
 ?>
 ```
 ## Output
+![koneksi](https://github.com/DimasF3009/Lab8web/assets/115356128/149d87e5-30b2-488b-a171-c5095102c2fd)
 
 
 ##  Membuat file index.php
@@ -77,6 +78,7 @@ $result = mysqli_query($conn, $sql);
 </html>
 ```
 ## Output
+![index](https://github.com/DimasF3009/Lab8web/assets/115356128/5f30660a-f108-4859-87a0-95370be49879)
 
 
 ##  Membuat file plus.php
@@ -182,6 +184,7 @@ if (isset($_POST['submit'])) {
 </html>
 ```
 ## Output
+![tambah](https://github.com/DimasF3009/Lab8web/assets/115356128/a91abfed-9195-4114-ab81-5cbe08fcceb6)
 
 ##  Membuat file ubah.php
 ```
@@ -295,6 +298,7 @@ function is_select($var, $val) {
 </html>
 ```
 ## Output
+![ubah](https://github.com/DimasF3009/Lab8web/assets/115356128/204f282b-a1d6-418f-9720-43ba88cb8954)
 
 
 ##  Membuat file hapus.php
